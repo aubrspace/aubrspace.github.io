@@ -4,6 +4,9 @@ layout: home
 
 
 
+Created by: Austin Brenner
+aubr@umich.edu
+
 Welcome! Here is a video showing Earth's magnetopause identified in a Space Weather Modeling Framework simulation. The contour on the boundary is total energy flux, where magenta represents energy entering the magnetosphere while gold indicated energy escaping the magnetosphere. During this period in the simulated storm of February 2014 a large pressure pulse in the solar wind rapidly compresses the magnetopause boundary.
 
 
