@@ -16,3 +16,9 @@ This animated schematic shows the total energy flux integrated over topological 
 
 [![Animated Diagram](https://user-images.githubusercontent.com/60946291/231567664-ed2aa92f-30b7-48d7-a102-9956b69c3f13.png)](https://user-images.githubusercontent.com/60946291/231570173-7bf970b4-6a76-45cc-a4a6-b772abf11b81.mp4)
 
+Extending this further, we compare the energy flux values with the dayside/nightside reconnection rates. The animation below shows the magnetopause contoured by magnetic topology (top left), the energy flux at at the magnetopause (top right), the closed field line magnetosphere contoured by magnetic mapping (bottom left: dayside= white, nightside= purple), and the open closed field line boundary of the northern hemisphere contoured by magnetic flux transport (bottom right: blue=open flux injection, red= open flux escape).
+
+
+[![Steady Solar Wind](<img width="1038" alt="agu_2023_cover" src="https://github.com/aubrspace/aubrspace.github.io/assets/60946291/514d0081-801b-4ca4-bf8d-0d1018441d95">)](https://github.com/aubrspace/aubrspace.github.io/assets/60946291/7f08a360-4fbf-4784-ad32-44d3ea1e89ff)
+
+For this test case, the input solar wind density, velocity, and temperature are held constant and the IMF is updated every 2 hours. For some intervals the internal dynamics of the magnetosphere are relatively quiet, but for others like the case shown here, there is clear nightside reconnection activity which actually affects the dayside reconnection rate and therefore the solar wind - magnetosphere coupling.
