@@ -1,9 +1,9 @@
+title: Research by Dr. Austin Brenner
 domain: aubrspace.github.io
 url: https://aubrspace.github.io
 remote_theme: jekyll/minima
 minima:
-    nav_pages: about.md
+    nav_pages: _posts/
     skin: solarized-dark
-title: Space Weather Modeling Framework simulation animations
 author: Austin Brenner aubr@umich.edu
 description: Bookmark this to keep an eye on my project updates!
