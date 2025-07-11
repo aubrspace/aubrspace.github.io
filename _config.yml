@@ -4,8 +4,8 @@ collections:
     - posts
 minima:
     nav_pages:
-        - about.md
-        - posts
+        - papers.md
+        - cv.md
     skin: solarized-dark
     show_excerpts: true
 author: Austin Brenner aubr@umich.edu
