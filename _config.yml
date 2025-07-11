@@ -3,7 +3,10 @@ domain: aubrspace.github.io
 url: https://aubrspace.github.io
 remote_theme: jekyll/minima
 minima:
-    nav_pages: _posts/
+    nav_pages:
+        - about.md
+        - _posts/AGU2023.md
+        - _posts/GEM2025.md
     skin: solarized-dark
 author: Austin Brenner aubr@umich.edu
 description: Bookmark this to keep an eye on my project updates!
