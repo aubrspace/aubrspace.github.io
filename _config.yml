@@ -8,5 +8,7 @@ minima:
         - cv.md
     skin: solarized-dark
     show_excerpts: true
+    header_pages:
+        - frontpage.md
 author: Austin Brenner aubr@umich.edu
 description: Bookmark this to keep an eye on my project updates!
