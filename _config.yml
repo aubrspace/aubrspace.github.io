@@ -1,6 +1,4 @@
 title: Research by Dr. Austin Brenner
-domain: aubrspace.github.io
-url: https://aubrspace.github.io
 remote_theme: jekyll/minima
 minima:
     nav_pages:
@@ -8,5 +6,6 @@ minima:
         - _posts/AGU2023.md
         - _posts/GEM2025.md
     skin: solarized-dark
+    show_excerpts: true
 author: Austin Brenner aubr@umich.edu
 description: Bookmark this to keep an eye on my project updates!
