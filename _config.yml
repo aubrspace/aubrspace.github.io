@@ -5,8 +5,7 @@ collections:
 minima:
     nav_pages:
         - about.md
-        - _posts/AGU2023.md
-        - _posts/GEM2025.md
+        - posts
     skin: solarized-dark
     show_excerpts: true
 author: Austin Brenner aubr@umich.edu
