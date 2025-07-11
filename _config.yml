@@ -1,5 +1,7 @@
 title: Research by Dr. Austin Brenner
 remote_theme: jekyll/minima
+collections:
+    - posts
 minima:
     nav_pages:
         - about.md
